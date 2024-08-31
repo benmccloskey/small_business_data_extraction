@@ -5,4 +5,6 @@ https://link.springer.com/article/10.1007/s10479-023-05816-2
 
 **./Data** - Folder containing the data used for this analysis
 
+**Topic_Modeling.ipynb** - code used to get topics for subsets of the data
+
 
