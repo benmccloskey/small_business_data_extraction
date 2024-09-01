@@ -11,3 +11,5 @@ ChatGPT Generated Food Industry Reviews Realism Assessment: https://medium.com/t
 Topic Modeling Analysis for Small Businesses: https://medium.com/towards-data-science/topic-modeling-analysis-for-small-businesses-73ba23474261
 
 ./generated_data - data generated using LLMs
+
+**italian_market_review_analysis_part_II_,ipynb** - Analysis on real vs. fake reviews.
