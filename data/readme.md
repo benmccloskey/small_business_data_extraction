@@ -4,4 +4,4 @@ Data was collected from:
 2. Google Reviews
 3. Yelp
 
-Data LAO generated using LLMs.
+Data also generated using LLMs.
