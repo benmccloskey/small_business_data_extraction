@@ -9,3 +9,5 @@ How Generative AI Can Support Food Industry Businesses: https://medium.com/towar
 ChatGPT Generated Food Industry Reviews Realism Assessment: https://medium.com/towards-data-science/chatgpt-generated-food-industry-reviews-realism-assessment-2ee28155970f
 
 Topic Modeling Analysis for Small Businesses: https://medium.com/towards-data-science/topic-modeling-analysis-for-small-businesses-73ba23474261
+
+./generated_data - data generated using LLMs
