@@ -35,7 +35,7 @@ This repository accompanies a research paper on the use of Natural Language Proc
 - **data/**: Contains the `Altomontes_reviews.csv` file with customer reviews from various platforms (TripAdvisor, Google Reviews, Yelp) and a `README.md` explaining the data.
 - **Excursions/**: This directory includes additional analyses and experiments that complement the main study. It contains a notebook focused on analyzing real vs. fake reviews, as well as data generated using LLMs.
 - **README.md**: This file provides an overview of the project, its structure, and instructions for use.
-- -**requirements.txt** - current environment requirements
+- **requirements.txt** - current environment requirements
 
 ## Setup and Installation
 
