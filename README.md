@@ -20,6 +20,9 @@ small_business_data_extraction/
 │   ├── italian_market_review_analysis_part_II.ipynb  # Analysis notebook
 │   └── generated_data/                        # Data generated using LLMs
 └── Topic_Modeling.ipynb                       # Main notebook for topic modeling analysis
+└── requirements.tct                           # Current environment requirements
+
+
 ```
 
 ## Introduction
